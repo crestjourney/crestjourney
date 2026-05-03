@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on CrestJourney</title>
+        <link>http://localhost:1313/post/</link>
+        <description>Recent content in Posts on CrestJourney</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 02 May 2026 23:55:29 -0700</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>İlk Yazı</title>
+            <link>http://localhost:1313/post/ilk-yazi/</link>
+            <pubDate>Sat, 02 May 2026 23:55:29 -0700</pubDate>
+            <guid>http://localhost:1313/post/ilk-yazi/</guid>
+            <description>&lt;p&gt;Merhaba! Bu CrestJourney&amp;rsquo;in ilk blog yazısı. Vancouver&amp;rsquo;dan dünyaya uzanan bir yolculuğun başlangıcı.&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>

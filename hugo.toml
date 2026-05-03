@@ -1,0 +1,4 @@
+baseURL = 'https://crestjourney.com/'
+locale = 'en-us'
+title = 'CrestJourney'
+theme = 'stack'
